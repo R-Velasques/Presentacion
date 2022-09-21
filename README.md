@@ -1,7 +1,7 @@
 ## IL/9341 2.8° TFT-LCD display
 ### POR: Velasques Salas Ricardo Emmanuel
 
-| Metodo      | Inicial      |
+| datos       | especificaciones      |
 |-------------|--------------|
 | Color       | Blanco/Rojo  |
 | Material    | FR4          | 
@@ -30,5 +30,12 @@ $481.23
 </table>
 
 ![](imagenes/1.png)
-![](imagenes/2.png)
+### Elemento del controlador: matriz activa a-Si TFT
+Resolución (puntos): 240RGB*320Dots
+Dirección de visualización: 6 en punto
+Disposición de píxeles: RGB
+Con placa PCB (incluyendo fuente de alimentación IC, SD), compatible con la interfaz 5110
+
 ![](imagenes/3.png)
+### 2.4" ILI9341 240x320 SPI TFT LCD Display Driver IC: ILI9341, Size:2.4" SPI Serial Type: without touch panel; Display area:36.72(W)X48.96(H)mm Driver element: a-Si TFT active matrix
+
