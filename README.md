@@ -31,3 +31,4 @@ $481.23
 
 ![](imagenes/1.png)
 ![](imagenes/2.png)
+![](imagenes/3.png)
